@@ -1,0 +1,17 @@
+# Core
+boto3
+pandas
+
+# Testing
+pytest
+coverage
+moto
+pytest-mock
+
+# Linting & Formatting
+black
+bandit
+safety
+
+# Optional (typing)
+mypy
